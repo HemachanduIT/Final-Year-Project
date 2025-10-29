@@ -1,0 +1,8 @@
+<----------------------------------------------------------------------------------->
+Create a Virtual Environment: 
+This creates an isolated space for your project's libraries. In the terminal, run:
+<<<<<<<<<<<<        python -m venv venv         >>>>>>>>>>>>>>>>>
+<----------------------------------------------------------------------------------->
+Activate the Environment: You must do this every time you open this project.
+<<<<<<<<<<<<        .\venv\Scripts\Activate         >>>>>>>>>>>>>>>>>
+

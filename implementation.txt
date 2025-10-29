@@ -5,4 +5,17 @@ This creates an isolated space for your project's libraries. In the terminal, ru
 <----------------------------------------------------------------------------------->
 Activate the Environment: You must do this every time you open this project.
 <<<<<<<<<<<<        .\venv\Scripts\Activate         >>>>>>>>>>>>>>>>>
+<----------------------------------------------------------------------------------->
+Step-by-Step Guide ---->> roboflow --->dataset -->Link: 'Medical PPE Detection Dataset'
+Click "Use this Dataset": This is the big purple button on the right side of your screen.
+
+Fork the Dataset: A pop-up will appear. Select "Fork Dataset". This creates a personal 
+copy of the dataset in your own Roboflow account that you can use.
+
+Go to the Export Tab: After forking, you'll be taken to your copy of the project.
+On the left sidebar, click on "Generate" or "Export".
+
+Select the Format: Choose "YOLOv8" as the format.
+
+Get Your Code Snippet: A pop-up will appear with the code snippet. This is where you will find your API key.
 

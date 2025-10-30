@@ -56,7 +56,8 @@ def process_video(input_video_path):
             break
 
         # Run the model on the frame with a low confidence to catch weaker detections
-        results = model(frame, verbose=False, conf=0.20) 
+        # results = model(frame, verbose=False, conf=0.20)
+        results = model(frame, verbose=False, conf=0.50) # Increased threshold to 50% 
         
         # Draw the bounding boxes on the frame
         annotated_frame = results[0].plot()

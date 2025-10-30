@@ -1,3 +1,13 @@
-ultralytics
-opencv-python 
-roboflow
+# Main libraries for the FoodVision project
+ultralytics==8.2.2
+opencv-python==4.9.0.80
+roboflow==1.1.29
+
+# Dependencies installed by the above libraries
+# These are included for full reproducibility.
+numpy==1.26.4
+torch==2.3.0
+torchvision==0.18.0
+Pillow==10.3.0
+PyYAML==6.0.1
+tqdm==4.66.4

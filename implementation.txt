@@ -22,4 +22,8 @@ Get Your Code Snippet: A pop-up will appear with the code snippet. This is where
 link to generate roboflow api key
 'https://universe.roboflow.com/yolo-gxqee/medical-ppe-detection-bp990/dataset/2#'
 <----------------------------------------------------------------------------------->
-
+link 1 to download images 
+'https://stock.adobe.com/in/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&k=cooking+hands&order=relevance&search_page=3&get_facets=0&search_type=pagination&asset_id=255603158'
+<----------------------------------------------------------------------------------->
+link 2 to download images
+'https://www.pexels.com/search/cooking/'
